@@ -21,6 +21,7 @@ input.addEventListener('keyup', (e) => {
 fromCountries.addEventListener('change', (e) => {
     const currencyFrom = document.querySelector('#fromCountry').value;
     const symbol = document.querySelector('.symbol');
+    
     http = new HTTP;
     http.getSymbol(currencyFrom)
         .then (data => {

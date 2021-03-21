@@ -83,7 +83,7 @@ input[type=number]::-webkit-outer-spin-button {
         -ms-flex-pack: justify;
             justify-content: space-between;
     width: 100%;
-    border: 0.5px solid #dfdfdf;
+    border: 1px solid #dfdfdf;
     border-radius: 3px;
   }
   .navContent {
@@ -362,7 +362,6 @@ input[type=number]::-webkit-outer-spin-button {
         -ms-flex-align: center;
             align-items: center;
     width: 100%;
-    border-radius: 3px;
   }
   .container .convert .fromCurrency .from .numericValue .symbol {
     display: -webkit-box;
@@ -402,6 +401,8 @@ input[type=number]::-webkit-outer-spin-button {
     border: 1px solid #dfdfdf;
     border-top-right-radius: 3px;
     border-bottom-right-radius: 3px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
     color: #dfdfdf;
     background-color: transparent;
     height: 1.85rem;
@@ -841,7 +842,7 @@ input[type=number]::-webkit-outer-spin-button {
     -webkit-box-pack: center;
         -ms-flex-pack: center;
             justify-content: center;
-    margin-right: 2rem;
+    margin-right: 1rem;
   }
   .container .convert .forDesktop .fromCurrency .from label {
     color: #dfdfdf;
