@@ -8,11 +8,15 @@ Once you get the api keys, in the config.js file, add
 
 ```
 const Apis = {
-    exchangeRate: 'API HERE', //api from https://www.exchangerate-api.com
-    currencyConverter: 'API HERE' //api from https://www.currencyconverterapi.com/
+    exchangeRate: 'API KEY #1', //API key from https://www.exchangerate-api.com
+    currencyConverter: 'API KEY #2' //API KEY api from https://www.currencyconverterapi.com/
 }
 ```
 
-for questions or inquiries, you can reach me on [Twitter](twitter.com/kayode0x)
+for questions or inquiries, you can reach me on [Twitter](twitter.com/kayode0x).
 
 #happycoding😈
+
+------------
+
+# No longer maintained, had fun creating this. For a kinda newer version, check [Apexwallet](https://github.com/apexwallet) ✌️
