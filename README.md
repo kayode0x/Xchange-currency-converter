@@ -19,4 +19,4 @@ for questions or inquiries, you can reach me on [Twitter](twitter.com/kayode0x).
 
 ------------
 
-# No longer maintained, had fun creating this. For a kinda newer version, check [Apexwallet](https://github.com/apexwallet) ✌️
+# Had fun creating this. For a kinda newer version, check [Apexwallet](https://github.com/apexwallet) ✌️
